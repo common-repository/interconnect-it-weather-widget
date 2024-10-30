@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?z2d2zy');
+	src:url('fonts/icomoon.eot?#iefixz2d2zy') format('embedded-opentype'),
+		url('fonts/icomoon.woff?z2d2zy') format('woff'),
+		url('fonts/icomoon.ttf?z2d2zy') format('truetype'),
+		url('fonts/icomoon.svg?z2d2zy#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icit_icon-"], [class*=" icit_icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icit_icon-Cloud:before {
+	content: "\e600";
+}
+.icit_icon-CloudyMoon:before {
+	content: "\e601";
+}
+.icit_icon-CloudySun:before {
+	content: "\e602";
+}
+.icit_icon-Drizzle:before {
+	content: "\e603";
+}
+.icit_icon-Fog:before {
+	content: "\e604";
+}
+.icit_icon-Hail:before {
+	content: "\e605";
+}
+.icit_icon-Mist:before {
+	content: "\e606";
+}
+.icit_icon-Moon:before {
+	content: "\e607";
+}
+.icit_icon-Rain:before {
+	content: "\e608";
+}
+.icit_icon-Sleet:before {
+	content: "\e609";
+}
+.icit_icon-Snow:before {
+	content: "\e60a";
+}
+.icit_icon-Sun:before {
+	content: "\e60b";
+}
+.icit_icon-Thunder:before {
+	content: "\e60c";
+}
